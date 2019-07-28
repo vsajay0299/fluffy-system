@@ -29,7 +29,14 @@ Solution:
    response of which party will be sent, not the information of the voter at that particular time)
    IOT sensors will sense that there is only one person in the room, and therefore will open the door for the voter to leave.
    The process will be repeated till all the voters don't cast their vote.
-                          OR
+                         
+                         
+                         
+                         OR
+
+
+
+
 ->Vote Online through the App.
      The app will be secured and handled by Azure Blockchain Tech software.
      It will take the name of the citizen on the Aadhar Card,Aadhar number,will send an OTP to the Aadhar registered number and if the citizen is
